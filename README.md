@@ -1,1 +1,1 @@
-Simple and photo selection using keyboard
+Simple and fast photo selection using only keyboard
